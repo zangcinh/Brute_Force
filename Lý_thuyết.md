@@ -9,5 +9,3 @@
 - Dictionary Attack: sử dụng từ điển để đoán
 - Rainbow Table Attack: sử dụng 1 password, hoặc 1 tập hợp password để thử với nhiều username khả thi
 - Credential Snuffing: sử dụng các cặp username hay password đã biết trước và thử trên nhiều trang web khác nhau
-
-- 
